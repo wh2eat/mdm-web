@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: mdm-web
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: wanghang
+Implementation-Vendor-Id: com.idata.mdm
+Build-Jdk: 1.8.0_111
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
